@@ -17,7 +17,7 @@ I'm Donghwan, but feel free to call me David.\
 I'm currently an undergraduate at the University of Wisconsin-Madison, majoring in Computer Science.\
 I’m deeply passionate about exploring emerging technologies and leveraging them to create intuitive and impactful experiences.\
 Over the years, I’ve been particularly captivated by virtual reality, which has driven me to work on various world design projects in this space. \
-Right now, my focus is on game development, as well as exploring, implementing, and understanding open-source GPT models.\
+Right now, my focus is on game development, as well as exploring, implementing, and understanding open-source GPT models.
 
 These are some of my recent works / WIP
   - [Tale of Two Statues](https://dgkim16.itch.io/tale-of-two-statues)
