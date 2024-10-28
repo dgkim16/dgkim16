@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ## Hi there 👋 
 I'm Donghwan, but feel free to call me David.\
 I'm currently an undergraduate at the University of Wisconsin-Madison, majoring in Computer Science.\
@@ -28,3 +28,4 @@ These are some of my recent works / WIP
     <br>number drawn on canvas won't be reflected correctly. Will try to fix during the break.
 
 [Porfolio](https://pebble-rook-001.notion.site/Donghwan-Kim-103c513fe85380b6ba4ed5b1cecd9d0d) for more details.
+-->
