@@ -29,3 +29,4 @@ These are some of my recent works / WIP
 
 [Porfolio](https://pebble-rook-001.notion.site/Donghwan-Kim-103c513fe85380b6ba4ed5b1cecd9d0d) for more details.
 -->
+Graphics Programmer vs Technical Artist
