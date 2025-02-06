@@ -28,5 +28,6 @@ These are some of my recent works / WIP
     <br>number drawn on canvas won't be reflected correctly. Will try to fix during the break.
 
 [Porfolio](https://pebble-rook-001.notion.site/Donghwan-Kim-103c513fe85380b6ba4ed5b1cecd9d0d) for more details.
--->
 Graphics Programmer vs Technical Artist
+
+-->
